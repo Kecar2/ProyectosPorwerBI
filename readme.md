@@ -2,6 +2,8 @@
 
 Este repositorio contiene una guía detallada sobre lo que he aprendido y el proceso de trabajar con Power BI, una poderosa herramienta de análisis y visualización de datos desarrollada por Microsoft. Aquí aprenderemos sobre los siguientes temas clave:
 
+![Logo de Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+
 ## Obteniendo Datos
 
 En esta sección, aprenderemos cómo obtener datos desde diversas fuentes. Cubriremos temas como:
